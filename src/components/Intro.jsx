@@ -1,7 +1,7 @@
 const Intro = () => {
   return (
     <div className="flex items-center justify-center flex-col text-center pt-2 pb-4">
-      <h1 className="text-4xl md:text-6xl mb-2 md:mb-3 mt-2 md:mt-3 font-bold">timCodes</h1>
+      <h1 className="text-4xl md:text-6xl dark:text-white mb-2 md:mb-3 mt-2 md:mt-3 font-bold">timCodes</h1>
       <p className="text-base md:text-xl mb-4 md:mb-6 font-medium">Software Engineer & Web Developer</p>
       <p className="text-sm max-w-xl mb-6 text-left">
         Hi, my name is Tim, and I&apos;m a Junior Software Developer.
