@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import NavBar from "./components/NavBar";
+// import NavBar from "./components/NavBar";
 import Intro from "./components/Intro";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
@@ -74,7 +74,7 @@ function App() {
       </button>
       <div className="bg-white dark:bg-stone-900 text-stone-900 dark:text-stone-300 min-h-screen font-inter">
         <div className="max-w-5xl w-11/12 mx-auto">
-          <NavBar />
+          {/* <NavBar theme={theme} /> */}
           <Intro />
           <Projects />
           <Skills theme={theme}/>
