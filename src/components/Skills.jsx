@@ -3,7 +3,7 @@ import SkillItem from "./SkillItem";
 import Title from "./Title";
 import { v4 as uuidv4} from "uuid";
 
-const Skills = () => {
+const Skills = ({ theme }) => {
   return (
     <>
       <Title>Skills</Title>
@@ -13,7 +13,9 @@ const Skills = () => {
             <SkillItem 
               name={skill.name}
               imgUrl={skill.imgUrl}
+              imgUrlLight={skill.imgUrlLight}
               key={uuidv4()}
+              theme={theme}
             />
           ))}
         </div>

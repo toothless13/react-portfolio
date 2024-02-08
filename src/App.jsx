@@ -77,7 +77,7 @@ function App() {
           <NavBar />
           <Intro />
           <Projects />
-          <Skills />
+          <Skills theme={theme}/>
           <Contact />
           <Footer />
         </div>
