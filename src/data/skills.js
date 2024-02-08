@@ -1,31 +1,31 @@
 export default [
   {
     name: 'HTML',
-    imgUrl: '/assets/HTML5_Badge_64.png',
+    imgUrl: '/assets/128px_html_logo.png',
   },
   {
     name: 'CSS',
-    imgUrl: '/assets/CSS3_logo.svg.png',
+    imgUrl: '/assets/128px_css_logo.png',
   },
   {
     name: 'JavaScript',
-    imgUrl: '/assets/64px-JavaScript-logo.png',
+    imgUrl: '/assets/128px_javascript_logo.png',
   },
   {
     name: 'React',
-    imgUrl: '/assets/64px-JavaScript-logo.png',
+    imgUrl: '/assets/128px_react_logo.png',
   },
   {
     name: 'Node.js',
-    imgUrl: '/assets/64px-JavaScript-logo.png',
+    imgUrl: '/assets/128px_node_logo.png',
   },
   {
     name: 'Jest',
-    imgUrl: '/assets/64px-JavaScript-logo.png',
+    imgUrl: '/assets/128px_jest_logo.png',
   },
   {
     name: 'Git',
-    imgUrl: '/assets/Git-Icon-1788C 64px high.png',
+    imgUrl: '/assets/128px_git_logo.png',
   },
   {
     name: 'GitHub',

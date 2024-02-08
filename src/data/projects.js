@@ -1,20 +1,20 @@
 export default [
   {
-    title: 'Project 1',
-    imgUrl: '/assets/Shanks-960x540.png',
-    techStack: ['tech1', 'tech2', 'tech3'],
-    link: 'testlink',
+    title: 'The Pantry',
+    imgUrl: '/assets/The Pantry-960x540.png',
+    techStack: ['React', 'Node.js', 'FireBase'],
+    link: 'https://github.com/toothless13/recipe-app',
   },
   {
-    title: 'Project 2',
-    imgUrl: '/assets/Shanks-960x540.png',
-    techStack: ['tech1', 'tech2', 'tech3'],
-    link: 'testlink',
+    title: 'Blog App',
+    imgUrl: '/assets/Blog App-960x540.png',
+    techStack: ['ExpressJS', 'EJS', 'BootStrap'],
+    link: 'https://github.com/toothless13/blog-app',
   },
   {
-    title: 'Project 3',
-    imgUrl: '/assets/Shanks-960x540.png',
-    techStack: ['tech1', 'tech2', 'tech3'],
-    link: 'testlink',
+    title: 'Surreal Estate',
+    imgUrl: '/assets/Surreal Estate-960x540.png',
+    techStack: ['React', 'ExpressJS', 'Axios'],
+    link: 'https://github.com/toothless13/surreal-estate',
   },
 ]
