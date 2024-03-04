@@ -12,6 +12,12 @@ export default [
     link: 'https://github.com/toothless13/blog-app',
   },
   {
+    title: 'To Do App',
+    imgUrl: '/assets/ToDo-960x540.png',
+    techStack: ['React', 'Firebase', 'Tailwind'],
+    link: 'https://to-do-app-34z.pages.dev/',
+  },
+  {
     title: 'Surreal Estate',
     imgUrl: '/assets/Surreal Estate-960x540.png',
     techStack: ['React', 'ExpressJS', 'Axios'],
