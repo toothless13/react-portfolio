@@ -39,4 +39,9 @@ export default [
     imgUrl: '/assets/128px_github_logo_dark.png',
     imgUrlLight: '/assets/128px_github_logo_light.png'
   },
+  {
+    name: 'Tailwind CSS',
+    imgUrl: '/assets/128px_tailwind_logo.png',
+    imgUrlLight: '/assets/128px_tailwind_logo.png'
+  }
 ]

@@ -4,11 +4,11 @@ const SkillItem = ({name, imgUrl, imgUrlLight, theme}) => {
       {theme === 'dark' ? <img
         src={imgUrl}
         alt={`${name} logo`}
-        className="w-64px h-20 md:h-24 object-cover cursor-pointer mx-auto"
+        className="w-64px h-20 md:h-24 object-cover mx-auto"
       /> : <img
       src={imgUrlLight}
       alt={`${name} logo`}
-      className="w-64px h-20 md:h-24 object-cover cursor-pointer mx-auto"
+      className="w-64px h-20 md:h-24 object-cover mx-auto"
     />}
       <div className="w-full p-4">
         <h4 className="text-md md:text-lg dark:text-white mb-2 md:mb-3 font-semibold">{name}</h4>

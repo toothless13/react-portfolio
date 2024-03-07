@@ -23,4 +23,10 @@ export default [
     techStack: ['React', 'ExpressJS', 'Axios'],
     link: 'https://github.com/toothless13/surreal-estate',
   },
+  {
+    title: 'Anime API',
+    imgUrl: '/assets/Anime-API-960x540.png',
+    techStack: ['React', 'Tailwind', 'React Query'],
+    link: 'https://anime-api-ecc.pages.dev/'
+  }
 ]
