@@ -1,9 +1,9 @@
-import Title from "./Title"
+import Title from "./Title";
 
 const Contact = () => {
   return (
     <div id="contact" className="flex flex-col mb-10 mx-auto">
-      <div className="flex justify-center items-center">
+      {/* <div className="flex justify-center items-center">
         <form 
           action="https://getform.io/f/2d53b6dc-833c-4eac-ba6d-6ed9ad8d9c67"
           method="POST"
@@ -35,9 +35,13 @@ const Contact = () => {
             Work With Me
           </button>
         </form>
+      </div> */}
+      <div className="flex justify-center items-center">
+        If you'd like to work with me please send an email to
+        timcodes13@outlook.com
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Contact
+export default Contact;
